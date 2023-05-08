@@ -1,4 +1,4 @@
-# solponge.teamProject
+# Team-Solponge
 
 ### 사전 요구 사항
 
